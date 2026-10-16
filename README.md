@@ -91,32 +91,39 @@ Abaixo está o mapa mental realizado pelo Notebook Gemini:
 
 <img width="4906" height="5138" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/dd5c9be6-1b83-4c44-afde-09638a266d2c" />
 
+---
 
+## 📸 Slides
+
+Abaixo está os slides criados pelo o assistente:
+[O_Segundo_Cérebro_de_Cristo.pdf](https://github.com/user-attachments/files/33520502/O_Segundo_Cerebro_de_Cristo.pdf)
 
 ---
-## 📸 Mapa mental
+
+## 📸 Interação com o assistente
 
 Abaixo está o registro da interação com o assistente, demonstrando a ancoragem das respostas nas fontes carregadas:
+
+<img width="746" height="421" alt="01" src="https://github.com/user-attachments/assets/2edf0aee-0ff2-48d3-89bb-83fa5cf9078d" />
+<img width="701" height="404" alt="02" src="https://github.com/user-attachments/assets/2e470518-f508-43ac-928d-750ba60ef045" />
+<img width="717" height="407" alt="03" src="https://github.com/user-attachments/assets/0260aebb-67a2-487c-9758-255e5bfac472" />
+<img width="731" height="422" alt="04" src="https://github.com/user-attachments/assets/ff844948-df90-43ab-810d-c58d56b130ad" />
+<img width="731" height="422" alt="05" src="https://github.com/user-attachments/assets/e0668fc5-0458-4690-927f-48fa7d3ac1a7" />
+<img width="731" height="425" alt="06" src="https://github.com/user-attachments/assets/8e971b89-bb03-4241-bc6e-116b5965b59c" />
+<img width="731" height="360" alt="07" src="https://github.com/user-attachments/assets/2232875d-cf49-4557-b789-b2473c431427" />
+<img width="731" height="364" alt="08" src="https://github.com/user-attachments/assets/8e8facdd-479b-454d-a614-503142cf40f5" />
+<img width="731" height="366" alt="09" src="https://github.com/user-attachments/assets/e2aa88bc-2bfa-4ba3-82bd-53cdd4db1163" />
 
 ---
 
 ## 🛠️ Materiais Gerados no Estúdio
 
-* 🎧 **Resumo em Áudio (Deep Dive / Podcast):** Diálogo entre dois analistas explorando a aplicabilidade do perdão e da reconciliação no ambiente profissional e familiar.
-* 📋 **Guia de Estudos & Reflexão:** Documento estruturado para revisão e autoavaliação comportamental. *(Disponível na pasta `/materiais`)*
+* 🎧 **Resumo em Áudio (Deep Dive / Podcast):** Diálogo entre dois analistas falando sobre a história de Cristo e sua ética.
+https://notebook.google.com/notebook/b8183388-817e-4d84-b2ac-2b369976456f/artifact/1d1d8188-1808-4e50-9df7-4d558735f865
 
----
 
-## 📁 Estrutura do Repositório
-
-```text
-├── assets/
-│   └── print-chat-citacoes.png      
-├── materiais/
-│   ├── guia-de-estudos.pdf          # Material exportado do Estúdio
-│   └── resumo-audio.m4a             # Áudio podcast do NotebookLM (opcional)
-└── README.md                        # Documentação completa do projeto
-```
+**Video:** Criado para falar sobre os Pilares da Vida e Missão de Jesus na Terra.
+https://notebook.google.com/notebook/b8183388-817e-4d84-b2ac-2b369976456f/artifact/60917b8c-3005-44d1-aea0-75c319a20d38
 
 ---
 
