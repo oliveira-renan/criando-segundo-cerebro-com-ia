@@ -1,4 +1,3 @@
-[The_Life_and_Legacy_of_Jesus.pdf](https://github.com/user-attachments/files/33521376/The_Life_and_Legacy_of_Jesus.pdf)
 <div align="center">
 
 # 🧠 Segundo Cérebro com IA: Ensinamentos Práticos de Jesus Cristo
@@ -112,15 +111,14 @@ Abaixo está os slides criados pelo o assistente:
 
 Abaixo está o registro da interação com o assistente, demonstrando a ancoragem das respostas nas fontes carregadas:
 
-<img width="562" height="326" alt="08" src="https://github.com/user-attachments/assets/f24c411c-a7de-49d5-a4ed-4977fc6f13e9" />
-<img width="562" height="384" alt="07" src="https://github.com/user-attachments/assets/ec56b4a2-c83b-41e7-8220-25003255e7ff" />
-<img width="545" height="463" alt="06" src="https://github.com/user-attachments/assets/42e6ed9c-9f07-4dcb-bd36-5a13dbcb756d" />
-<img width="634" height="386" alt="05" src="https://github.com/user-attachments/assets/6f9d47c3-b737-419f-884d-31ea234bcf1d" />
-<img width="587" height="384" alt="04" src="https://github.com/user-attachments/assets/feb76881-d13a-42d0-a82b-c99174757c9a" />
-<img width="581" height="444" alt="03" src="https://github.com/user-attachments/assets/aeaec337-515c-4a1e-ba67-2ff6c0a0079e" />
-<img width="651" height="473" alt="02" src="https://github.com/user-attachments/assets/ea3556c3-be98-478a-ae57-95b917ce1180" />
-<img width="570" height="398" alt="01" src="https://github.com/user-attachments/assets/c922fe57-bcbd-4e14-b64f-43ba496f3770" />
-[The_Art_of_Reconciliation.pdf](https://github.com/user-attachments/files/33521612/The_Art_of_Reconciliation.pdf)
+<img width="570" height="398" alt="01" src="https://github.com/user-attachments/assets/b0cde06a-703f-4f57-87a4-61688289c0ab" />
+<img width="651" height="473" alt="02" src="https://github.com/user-attachments/assets/dbb79961-66ce-435c-891f-eaa06a6a5fd0" />
+<img width="581" height="444" alt="03" src="https://github.com/user-attachments/assets/5f69c4e8-5140-4828-bac6-1241106bc3b3" />
+<img width="587" height="384" alt="04" src="https://github.com/user-attachments/assets/420695bf-5e7d-446c-bfd0-849356ed5fdf" />
+<img width="634" height="386" alt="05" src="https://github.com/user-attachments/assets/165a944f-13da-4751-b6bf-fa8b0c18c38b" />
+<img width="545" height="463" alt="06" src="https://github.com/user-attachments/assets/e707336e-976c-43b4-bd86-ba17a4d20d80" />
+<img width="562" height="384" alt="07" src="https://github.com/user-attachments/assets/5e095626-137e-40fa-ae2f-c39dbd602914" />
+<img width="562" height="326" alt="08" src="https://github.com/user-attachments/assets/52d9f886-3845-4161-9f06-b64179114989" />
 
 ---
 
