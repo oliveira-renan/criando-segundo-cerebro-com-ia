@@ -1,3 +1,4 @@
+[The_Life_and_Legacy_of_Jesus.pdf](https://github.com/user-attachments/files/33521376/The_Life_and_Legacy_of_Jesus.pdf)
 <div align="center">
 
 # 🧠 Segundo Cérebro com IA: Ensinamentos Práticos de Jesus Cristo
@@ -111,27 +112,29 @@ Abaixo está os slides criados pelo o assistente:
 
 Abaixo está o registro da interação com o assistente, demonstrando a ancoragem das respostas nas fontes carregadas:
 
-
-
-
-
-
-
-
-
+<img width="562" height="326" alt="08" src="https://github.com/user-attachments/assets/f24c411c-a7de-49d5-a4ed-4977fc6f13e9" />
+<img width="562" height="384" alt="07" src="https://github.com/user-attachments/assets/ec56b4a2-c83b-41e7-8220-25003255e7ff" />
+<img width="545" height="463" alt="06" src="https://github.com/user-attachments/assets/42e6ed9c-9f07-4dcb-bd36-5a13dbcb756d" />
+<img width="634" height="386" alt="05" src="https://github.com/user-attachments/assets/6f9d47c3-b737-419f-884d-31ea234bcf1d" />
+<img width="587" height="384" alt="04" src="https://github.com/user-attachments/assets/feb76881-d13a-42d0-a82b-c99174757c9a" />
+<img width="581" height="444" alt="03" src="https://github.com/user-attachments/assets/aeaec337-515c-4a1e-ba67-2ff6c0a0079e" />
+<img width="651" height="473" alt="02" src="https://github.com/user-attachments/assets/ea3556c3-be98-478a-ae57-95b917ce1180" />
+<img width="570" height="398" alt="01" src="https://github.com/user-attachments/assets/c922fe57-bcbd-4e14-b64f-43ba496f3770" />
+[The_Art_of_Reconciliation.pdf](https://github.com/user-attachments/files/33521612/The_Art_of_Reconciliation.pdf)
 
 ---
 
 ## 🛠️ Materiais Gerados no Estúdio
 
-* 🎧 **Resumo em Áudio (Deep Dive / Podcast):** Diálogo entre dois analistas falando sobre a história de Cristo e sua ética.
+* 🎧 **Resumo em Áudio (Deep Dive / Podcast):** Diálogo entre dois analistas falando sobre as estratégias de Jesus para resolver conflitos.
+
+https://notebook.google.com/notebook/c7282dc3-4e17-4622-b9c8-ea2076d75cbe/artifact/e8d0e7a5-7361-4ca8-b36c-35a41913fd99?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 
 
+**Video:** Criado para falar sobre como reconstruir a confiança após uma traição baseado na vivência de Jesus.
 
-**Video:** Criado para falar sobre os Pilares da Vida e Missão de Jesus na Terra.
-
-
+https://notebook.google.com/notebook/c7282dc3-4e17-4622-b9c8-ea2076d75cbe/artifact/1e5e7386-e2b2-4990-af30-caff0017b7f7?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 ---
 
