@@ -28,8 +28,7 @@ Para garantir respostas fundamentadas e livres de alucinação, foram utilizadas
 | **Vídeo** | *Ensinamentos de Jesus Cristo - A Palavra* | Exposição em áudio/vídeo sobre os pilares do Sermão do Monte, destacando as Beatitudes, o amor aos inimigos e a caridade ao próximo. |
 | **Vídeo** | *Os Maiores Ensinamentos de Jesus Cristo* | Compilação audiovisual que reúne ensinamentos práticos e as principais parábolas (semeador, talentos, dez virgens, credor incompassivo). |
 | **Vídeo** | *Feche os olhos e reflita nos ensinamentos de Jesus Cristo...* | Narração reflexiva sobre os capítulos 5 a 7 de Mateus, focada na conduta diária, pacificadores, conciliação de ofensas e oração sem hipocrisia. |
-| **Vídeo** | *QUEM É JESUS CRISTO? - BILLY GRAHAM INÉDITO EM PORTUGUÊS* | 
-Palestra/pregação estruturada com foco na elevação da ética humana, inteligência emocional, perdão prático e transformação nos relacionamentos. |
+| **Vídeo** | *QUEM É JESUS CRISTO? - BILLY GRAHAM INÉDITO EM PORTUGUÊS* | Palestra/pregação estruturada com foco na elevação da ética humana, inteligência emocional, perdão prático e transformação nos relacionamentos. |
 
 ---
 
