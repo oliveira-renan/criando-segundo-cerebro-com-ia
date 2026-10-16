@@ -104,6 +104,7 @@ Abaixo está o mapa mental realizado pelo Notebook Gemini abordando sobre a vida
 
 Abaixo está os slides criados pelo o assistente:
 
+[The_Art_of_Reconciliation.pdf](https://github.com/user-attachments/files/33521779/The_Art_of_Reconciliation.pdf)
 
 ---
 
