@@ -27,7 +27,7 @@ O assistente foi construído no **Gemini Notebook (NotebookLM)** e alimentado ex
 
 ## 🔗 Link do Notebook
 
-* 📂 **Acesse o caderno:** [Gemini Notebook - Ensinamentos de Jesus Cristo](https://notebook.google.com/notebook/b8183388-817e-4d84-b2ac-2b369976456f)
+* 📂 **Acesse o caderno:** [Gemini Notebook - Ensinamentos de Jesus Cristo](https://notebook.google.com/notebook/c7282dc3-4e17-4622-b9c8-ea2076d75cbe)
 
 ---
 
@@ -63,40 +63,47 @@ Para garantir diversidade, confiabilidade e profundidade, foram inseridas fontes
 
 ### 💡 Síntese das Respostas Extraídas das Fontes:
 
-Diante de um conflito interpessoal ou de uma mágoa acumulada, os ensinamentos registrados nas fontes apontam um itinerário prático de **seis passos** para alcançar o perdão e a reconciliação:
+Analisando os ensinamentos presentes nas fontes, o processo de perdão e restauração interpessoal é estruturado em atitudes e ações práticas bem definidas. Abaixo estão os **seis passos práticos** indicados pelas fontes para lidar com mágoas e conflitos:
 
-1. **Praticar o autoexame antes de julgar o outro**  
-   Antes de focar na falha da outra parte ou reagir com severidade, a primeira atitude é o exame da própria conduta. É ensinado que não se deve julgar para não ser julgado e que é necessário remover primeiro a *"trave"* do próprio olho para conseguir enxergar com clareza e tirar o *"cisco"* do olho do irmão.
+#### 1. Faça um Autoexame Antes de Avaliar a Falha Alheia
+* **Examine a si mesmo primeiro:** Antes de focar na atitude da pessoa que o magoou, analise as suas próprias imperfeições e motivações. É necessário reconhecer e remover a *"trave"* do próprio olho para conseguir enxergar com clareza e ajudar a tirar o *"cisco"* do olho do irmão.
+* **Lembre-se da humanidade compartilhada:** Diante da tentação de julgar ou condenar severamente, considere a lição dada ao confrontar acusadores: aquele que estiver sem pecado deve ser o primeiro a *"atirar a pedra"*.
 
-2. **Tomar a iniciativa e agir com urgência na reconciliação**  
-   O perdão e a busca pela paz não devem ser adiados nem colocados em segundo plano. Se você estiver diante do altar apresentando sua oferta e se lembrar de que seu irmão tem alguma queixa contra você, a instrução é deixar a oferta e ir imediatamente fazer as pazes com ele antes de prosseguir com seu dever. Da mesma forma, orienta-se a buscar um acordo rápido enquanto se está a caminho, evitando que o atrito se agrave.
+#### 2. Tome a Iniciativa Rápida de Reconciliação
+* **Dê prioridade à paz interpessoal:** Se você estiver prestes a fazer uma oferta ou ato religioso e se lembrar de que seu irmão tem alguma queixa contra você, a orientação é interromper o que está fazendo, ir primeiro fazer as pazes com ele e só então retornar.
+* **Busque o acordo sem adiar:** Não permita que o conflito se prolongue ou se agrave em disputas maiores; entre em acordo com o opositor rapidamente enquanto ainda há tempo.
 
-3. **Perdoar sem impor limites ou contabilidade**  
-   O perdão não deve ser condicionado a uma contagem de quantas vezes a pessoa errou. Quando perguntado se seria suficiente perdoar uma ofensa até sete vezes, a orientação explícita foi de perdoar *"até setenta vezes sete"*, estabelecendo uma postura permanente de misericórdia.
+#### 3. Libere o Perdão Ilimitado e Consciente
+* **Perdoe sem impor contagens:** O perdão não deve ser limitado a um número fixo de oportunidades, devendo ser concedido *"até setenta vezes sete"*.
+* **Reconheça a compaixão que você mesmo recebe:** Lembre-se da lição da parábola do servo cuja enorme dívida foi perdoada, mas que agiu de forma implacável com seu companheiro por uma quantia menor; recusar a misericórdia ao próximo fecha o coração para o próprio perdão.
+* **Perdoe para manter a saúde espiritual:** O ato de perdoar as ofensas dos outros é uma condição essencial para receber o perdão das próprias falhas perante o Pai Celestial.
 
-4. **Reconhecer a conexão com o perdão divino**  
-   As fontes enfatizam que a disposição de perdoar os outros está diretamente ligada à recepção do próprio perdão. Na oração do *"Pai Nosso"*, pede-se que Deus perdoe as nossas ofensas na medida em que perdoamos os nossos devedores. É reforçado que, se perdoarmos as pessoas que nos ofendem, o Pai celestial também nos perdoará; contudo, se retermos o perdão, as nossas ofensas também não serão perdoadas.
+#### 4. Interrompa o Ciclo da Retaliação
+* **Abandone a vingança:** Abandone o princípio de retribuir o mal com o mal (*"olho por olho, dente por dente"*).
+* **Responda com paciência e generosidade:** Ao ser provocado ou injustiçado, a orientação é *"oferecer a outra face"*, ir além do exigido (*caminhar a segunda milha*) e desarmar o impulso de raiva, evitando ofensas e insultos verbais.
 
-5. **Renunciar à vingança e retribuir com o bem**  
-   Diante de agressões ou ofensas verbais, a resposta não deve seguir a lógica da retaliação do *"olho por olho"*. A instrução é desarmar o conflito ao não se vingar dos que fazem o mal, estando disposto a *"oferecer a outra face"* e adotar atitudes construtivas: amar os inimigos, fazer o bem aos que odeiam e orar por aqueles que perseguem ou maltratam.
+#### 5. Ore e Deseje o Bem a Quem Causou a Mágoa
+* **Pratique a benevolência com os oponentes:** O passo mais alto ensinado é amar os inimigos, abençoar quem amaldiçoa e orar ativamente por aqueles que o perseguem ou maltratam.
+* **Siga o exemplo de compaixão suprema:** Mesmo sob dor e injustiça extrema, o modelo de postura é rogar o perdão pelos agressores, reconhecendo a cegueira ou ignorância espiritual por trás das ações deles (*"Pai, perdoa-lhes, porque não sabem o que estão fazendo"*).
 
-6. **Interceder e exercer compaixão pelos agressores**  
-   O exemplo definitivo de perdão prático ocorre no momento da crucificação, quando, em meio ao sofrimento e à injustiça, a reação foi interceder pelos próprios executores: *"Pai, perdoa-lhes, porque não sabem o que estão fazendo"*. Esse passo nos convida a olhar para o outro com compaixão, reconhecendo suas cegueiras e entregando a pessoa em oração.
+#### 6. Aplique a Regra de Ouro e a Humildade no Servir
+* **Pratique a empatia ativa:** Em qualquer interação, faça aos outros exatamente o que gostaria que fizessem a você (*Regra de Ouro*).
+* **Adote uma postura de serviço:** Deixe de lado a disputa por orgulho ou posição e coloque-se na disposição de servir e cuidar do próximo, seguindo o mandamento de amar os outros assim como Cristo amou.
 
 ---
 
 ## 📸 Mapa mental
 
-Abaixo está o mapa mental realizado pelo Notebook Gemini:
+Abaixo está o mapa mental realizado pelo Notebook Gemini abordando sobre a vida e ensinamentos de Jesus Cristo:
 
-<img width="4906" height="5138" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/dd5c9be6-1b83-4c44-afde-09638a266d2c" />
+<img width="4390" height="10538" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/ef5a851b-3fc1-4482-9ab6-32c2de4db41f" />
 
 ---
 
 ## 📸 Slides
 
 Abaixo está os slides criados pelo o assistente:
-[O_Segundo_Cérebro_de_Cristo.pdf](https://github.com/user-attachments/files/33520502/O_Segundo_Cerebro_de_Cristo.pdf)
+
 
 ---
 
@@ -104,15 +111,14 @@ Abaixo está os slides criados pelo o assistente:
 
 Abaixo está o registro da interação com o assistente, demonstrando a ancoragem das respostas nas fontes carregadas:
 
-<img width="746" height="421" alt="01" src="https://github.com/user-attachments/assets/2edf0aee-0ff2-48d3-89bb-83fa5cf9078d" />
-<img width="701" height="404" alt="02" src="https://github.com/user-attachments/assets/2e470518-f508-43ac-928d-750ba60ef045" />
-<img width="717" height="407" alt="03" src="https://github.com/user-attachments/assets/0260aebb-67a2-487c-9758-255e5bfac472" />
-<img width="731" height="422" alt="04" src="https://github.com/user-attachments/assets/ff844948-df90-43ab-810d-c58d56b130ad" />
-<img width="731" height="422" alt="05" src="https://github.com/user-attachments/assets/e0668fc5-0458-4690-927f-48fa7d3ac1a7" />
-<img width="731" height="425" alt="06" src="https://github.com/user-attachments/assets/8e971b89-bb03-4241-bc6e-116b5965b59c" />
-<img width="731" height="360" alt="07" src="https://github.com/user-attachments/assets/2232875d-cf49-4557-b789-b2473c431427" />
-<img width="731" height="364" alt="08" src="https://github.com/user-attachments/assets/8e8facdd-479b-454d-a614-503142cf40f5" />
-<img width="731" height="366" alt="09" src="https://github.com/user-attachments/assets/e2aa88bc-2bfa-4ba3-82bd-53cdd4db1163" />
+
+
+
+
+
+
+
+
 
 ---
 
@@ -120,12 +126,12 @@ Abaixo está o registro da interação com o assistente, demonstrando a ancorage
 
 * 🎧 **Resumo em Áudio (Deep Dive / Podcast):** Diálogo entre dois analistas falando sobre a história de Cristo e sua ética.
 
-https://notebook.google.com/notebook/b8183388-817e-4d84-b2ac-2b369976456f/artifact/1d1d8188-1808-4e50-9df7-4d558735f865
+
 
 
 **Video:** Criado para falar sobre os Pilares da Vida e Missão de Jesus na Terra.
 
-https://notebook.google.com/notebook/b8183388-817e-4d84-b2ac-2b369976456f/artifact/60917b8c-3005-44d1-aea0-75c319a20d38
+
 
 ---
 
