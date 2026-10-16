@@ -15,7 +15,7 @@
 
 Este repositório documenta a criação e estruturação de um **segundo cérebro com inteligência artificial**, desenvolvido como parte do Desafio de Projeto da plataforma [DIO (Digital Innovation One)](https://dio.me).
 
-O assistente foi construído no **Gemini Notebook (NotebookLM)** e alimentado exclusivamente com fontes selecionadas em múltiplos formatos (artigos históricos, textos biográficos e palestras/vídeos do YouTube). O foco é analisar a conduta diária e fornecer direcionamento ético para a resolução de dilemas interpessoais, com respostas 100% fundamentadas e com rastreabilidade de citações.
+O assistente foi construído no **Gemini Notebook (antigo NotebookLM)** e alimentado exclusivamente com fontes selecionadas em múltiplos formatos (artigos históricos, textos biográficos e palestras/vídeos do YouTube). O foco é analisar a conduta diária e fornecer direcionamento ético para a resolução de dilemas interpessoais, com respostas 100% fundamentadas e com rastreabilidade de citações.
 
 ---
 
