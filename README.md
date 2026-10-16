@@ -119,10 +119,12 @@ Abaixo está o registro da interação com o assistente, demonstrando a ancorage
 ## 🛠️ Materiais Gerados no Estúdio
 
 * 🎧 **Resumo em Áudio (Deep Dive / Podcast):** Diálogo entre dois analistas falando sobre a história de Cristo e sua ética.
+
 https://notebook.google.com/notebook/b8183388-817e-4d84-b2ac-2b369976456f/artifact/1d1d8188-1808-4e50-9df7-4d558735f865
 
 
 **Video:** Criado para falar sobre os Pilares da Vida e Missão de Jesus na Terra.
+
 https://notebook.google.com/notebook/b8183388-817e-4d84-b2ac-2b369976456f/artifact/60917b8c-3005-44d1-aea0-75c319a20d38
 
 ---
